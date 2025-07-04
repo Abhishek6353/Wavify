@@ -1,0 +1,17 @@
+# Xcode
+.DS_Store
+*.xcuserstate
+xcuserdata/
+build/
+DerivedData/
+*.pbxuser
+
+# Dependencies
+Pods/
+Carthage/Build/
+.swiftpm/
+.build/
+
+# App artifacts
+*.ipa
+*.dSYM
